@@ -6,3 +6,5 @@ echo  "Adicionando cores"
 
 echo "Interatividade criada"
 echo "teste"
+
+echo "teste 2"
